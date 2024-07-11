@@ -3,6 +3,7 @@ package aarti;
 public class Rectangle {
 	float width;
 	float height;
+	private float area;
 	
 	
 	public Rectangle() {

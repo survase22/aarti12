@@ -26,8 +26,9 @@ public class Colour {
 			
 		}
 		}
+}
 
-System.out.println("r.getColour");
+
 
 	
 

@@ -1,5 +1,7 @@
 package dayfour;
 
+import dayfour.BaseClass.Base;
+
 public class Executor {
 	public static void main(String[] args) {
 
